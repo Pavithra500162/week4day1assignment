@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "AT"
+       },
+       "summary": "API Testing Sample",
+       "description": "API Testing Sample",
+       "issuetype": {
+          "name": "Problem"
+       }
+   }
+}
